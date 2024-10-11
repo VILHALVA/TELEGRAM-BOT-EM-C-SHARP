@@ -13,7 +13,7 @@ Este bot foi desenvolvido em C SHARP utilizando a API do Telegram. Ele responde 
 
 ## EXECUTANDO O PROJETO:
 1. **Configurar Token do Telegram**:
-   - Abra o arquivo `./CODIGO/config.c` e coloque sua credêncial:
+   - Abra o arquivo `./CODIGO/config.cs` e coloque sua credêncial:
      ```cs
       public const string BOT_TOKEN = "YOUR_BOT_TOKEN"; 
      ```
